@@ -4,7 +4,7 @@ En este proyecto encontrara un ejemplo de API de REST desarrollada con Java.
 
 Su objetivo es crear una API que expone un recurso “Productos”; a este recurso va a ser posible editar, ver todos los productos que están registrados, buscar un producto en particular, eliminar un producto, registrar un producto y modificar un producto.
 
-## Uso de método implementados
+## Uso de métodos implementados
 
 ### GET
 ![image](https://user-images.githubusercontent.com/37159/142915449-3d233e83-5418-4ad1-bead-4f17c6ee1a49.png)
