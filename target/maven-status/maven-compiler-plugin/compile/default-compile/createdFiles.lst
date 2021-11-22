@@ -1,0 +1,4 @@
+ec\edu\utpl\aapp\demo\dao\ProductoDAO.class
+ec\edu\utpl\aapp\demo\servicios\ProductoServicio.class
+ec\edu\utpl\aapp\demo\servicios\Configuracion.class
+ec\edu\utpl\aapp\demo\modelo\Producto.class
