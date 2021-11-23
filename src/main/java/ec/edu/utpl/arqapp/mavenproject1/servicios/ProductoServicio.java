@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ec.edu.utpl.aapp.demo.servicios;
+package ec.edu.utpl.arqapp.mavenproject1.servicios;
 
-import ec.edu.utpl.aapp.demo.dao.ProductoDAO;
-import ec.edu.utpl.aapp.demo.modelo.Producto;
+import ec.edu.utpl.arqapp.mavenproject1.dao.ProductoDAO;
+import ec.edu.utpl.arqapp.mavenproject1.modelo.Producto;
 import java.util.List;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;

@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ec.edu.utpl.aapp.demo.modelo;
+package ec.edu.utpl.arqapp.mavenproject1.modelo;
 
 /**
  *
@@ -12,14 +12,16 @@ public class Producto {
     private int id;
     private String nombre;
     private float precio;
+    
+    public Producto()
+    {
+        
+    }
 
     public Producto(int id, String nombre, float precio) {
         this.id = id;
         this.nombre = nombre;
         this.precio = precio;
-    }
-
-    public Producto() {
     }
 
     public int getId() {
@@ -48,8 +50,8 @@ public class Producto {
 
     @Override
     public int hashCode() {
-        int hash = 7;
-        hash = 59 * hash + this.id;
+        int hash = 3;
+        hash = 97 * hash + this.id;
         return hash;
     }
 
@@ -70,6 +72,8 @@ public class Producto {
         }
         return true;
     }
+    
+    
     
     
     
