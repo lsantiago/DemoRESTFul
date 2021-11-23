@@ -26,5 +26,19 @@ http://localhost:8080/mavenproject2/api/productos/
 
 Reto: Implementar método PUT para actualizar un producto. 
 
+## Herramientas
+
+Instalar en ese orden.
+
+IDE
+- [jdk-17](https://www.oracle.com/java/technologies/downloads/)
+- [Apache-NetBeans-12.5](https://netbeans.apache.org/download/index.html)
+
+Servidor Web
+- [Glassfish Server 5.0.1](http://download.oracle.com/glassfish/5.0.1/release/glassfish-5.0.1.zip)
+- [jdk8](https://www.oracle.com/java/technologies/downloads/#java8)
+
+## Referencias
+- [API Rest con Java desde CERO (JAX-RS Jersey)](https://www.youtube.com/watch?v=fa1AO1cp9NM&list=PLwkJQeEWueTvEADf1h5gktO_4COVWnFGp&index=8&ab_channel=CarlosCercado)
 
 
